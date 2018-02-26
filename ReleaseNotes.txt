@@ -62,7 +62,7 @@ Release notes 0.8.8
 
 Release notes 0.8.7
 
-- OSX support
+- OSX supports
 - Further optimizations
 
 Release notes 0.8.6
